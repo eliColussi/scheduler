@@ -33,5 +33,7 @@ npm run storybook
 ```
 ## project stack 
 **front-end:** JSX, HTML, React, SAAS, JavaScript
+
 **back-end:** Express, NodeJS, postgreSQL
+
 **testing:** storybook, jest, cypress
